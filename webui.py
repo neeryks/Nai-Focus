@@ -76,7 +76,7 @@ def generate_clicked(*args):
 
 reload_javascript()
 
-title = f'Fooocus {fooocus_version.version}'
+title = f'Nai - neeryks (Alpha Release)'
 
 if isinstance(args_manager.args.preset, str):
     title += ' ' + args_manager.args.preset
